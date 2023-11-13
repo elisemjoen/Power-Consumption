@@ -4,16 +4,13 @@
 
 The data set comprises four key columns:
 Time, representing hours in Coordinated
-Universal Time (UTC); Location, denot-
-ing the largest city within the relevant
+Universal Time (UTC); Location, denoting the largest city within the relevant
 price area and serving as a representative
-sample of the area’s weather; Consump-
-tion, indicating the average hourly en-
+sample of the area’s weather; Consumption, indicating the average hourly en-
 ergy consumption measured in megawatts
 (MW); and Temperature, offering the
 weather forecast for the specified location
-at the respective hour, expressed in de-
-grees Celsius and available at the time of
+at the respective hour, expressed in degrees Celsius and available at the time of
 forecasting.
 
 

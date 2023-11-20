@@ -7,8 +7,8 @@ The data set comprises four key columns: Time, representing hours in Coordinated
 
 ## Data analysis
 
-"ANEO_data_analysis" is designed to perform data analysis on power consumption data, considering various factors such as time, location, and temperature. The primary goal is to gain insights into patterns and trends related to power usage.
+"ANEO_data_analysis" and "aneo_stats" are designed to perform data analysis on power consumption data, considering various factors such as time, location, and temperature. The primary goal is to gain insights into patterns and trends related to power usage.
 
 ## Power forecasting
 
-"ANEO_forecast" is a LSTM-model that forecasts power consumption based on a time series with temperature and location. Power consumption from the last five days is unknown, but the weather data is available at the time of the forecasting. 
+"ANEO_forecasts" is a LSTM-model that forecasts power consumption based on a time series with temperature and location. Power consumption from the last five days is unknown, but the weather data is available at the time of the forecasting. 
